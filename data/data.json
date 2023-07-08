@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Introduction to Computing",
+        "displayName": "Introduction to Computing",
+        "courseCode": "CS 201",
+        "section": "0",
+        "crnNumber": "30096",
+        "meetingTimes": [
+            {
+                "type": "Class",
+                "time": "11:40 am - 2:30 pm",
+                "days": "R",
+                "location": "Fac. of Engin. and Nat. Sci. L029",
+                "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+                "scheduleType": "2nd del",
+                "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
+            },
+            {
+                "type": "Class",
+                "time": "8:40 am - 11:30 am",
+                "days": "F",
+                "location": "Fac. of Engin. and Nat. Sci. L029",
+                "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+                "scheduleType": "1st del",
+                "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
+            }
+        ]
+    },
+    {
+        "name": "Introduction to Computing - Recitation",
+        "displayName": "Introduction to Computing",
+        "courseCode": "CS 201R",
+        "section": "A",
+        "crnNumber": "30097",
+        "meetingTimes": [
+            {
+                "type": "Class",
+                "time": "8:40 am - 10:30 am",
+                "days": "M",
+                "location": "Fac. of Engin. and Nat. Sci. L065",
+                "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+                "scheduleType": "2nd del",
+                "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
+            },
+            {
+                "type": "Class",
+                "time": "8:40 am - 10:30 am",
+                "days": "W",
+                "location": "Fac. of Engin. and Nat. Sci. L067",
+                "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+                "scheduleType": "1st del",
+                "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
+            }
+        ]
+    },
+    {
+        "name": "Introduction to Computing - Recitation",
+        "displayName": "Introduction to Computing",
+        "courseCode": "CS 201R",
+        "section": "B",
+        "crnNumber": "30098",
+        "meetingTimes": [
+            {
+                "type": "Class",
+                "time": "1:40 pm - 3:30 pm",
+                "days": "M",
+                "location": "Fac. of Engin. and Nat. Sci. L067",
+                "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+                "scheduleType": "2nd del",
+                "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
+            },
+            {
+                "type": "Class",
+                "time": "8:40 am - 10:30 am",
+                "days": "T",
+                "location": "Fac. of Engin. and Nat. Sci. L067",
+                "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+                "scheduleType": "1st del",
+                "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
+            }
+        ]
+    }
+]

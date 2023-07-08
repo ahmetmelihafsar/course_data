@@ -1,0 +1,50 @@
+
+{
+    "name": "Introduction to Computing - Recitation",
+    "displayName": "Introduction to Computing",
+    "courseCode": "CS 201R",
+    "section": "B",
+    "crnNumber": "30098",
+    "term": "Summer 2022-2023",
+    "registrationDates": "No dates available",
+    "levels": [
+      "Doctorate",
+      "Undeclared",
+      "Scientific Preparatory",
+      "Undergraduate",
+      "Masters",
+      "Special Student",
+      "Exchange - Socrates Erasmus UG",
+      "Exchange - Socrates Erasmus MA",
+      "Exchange - Socrates Erasmus DR",
+      "Exchange - Erasmus Mundus MA",
+      "Exchange - Erasmus Mundus DR",
+      "Exchange - Erasmus Mundus UG"
+    ],
+    "faculty": "Course Offered by FENS",
+    "campus": "Sabancı University Campus Campus",
+    "scheduleType": "Recitation Schedule Type",
+    "credits": 0.0,
+    "meetingTimes": [
+      {
+        "type": "Class",
+        "time": "1:40 pm - 3:30 pm",
+        "days": "M",
+        "location": "Fac. of Engin. and Nat. Sci. L067",
+        "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+        "scheduleType": "2nd del",
+        "instructors": "Atıl Utku Ay (P)"
+      },
+      {
+        "type": "Class",
+        "time": "8:40 am - 10:30 am",
+        "days": "T",
+        "location": "Fac. of Engin. and Nat. Sci. L067",
+        "dateRange": "Jul 10, 2023 - Aug 25, 2023",
+        "scheduleType": "1st del",
+        "instructors": "Atıl Utku Ay (P)"
+      }
+    ],
+    "availableSeats": 3
+  }
+  

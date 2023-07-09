@@ -24,7 +24,12 @@
                 "scheduleType": "1st del",
                 "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
             }
-        ]
+        ],
+        "associatedTerm": "Summer 2022-2023",
+        "registrationDates": "No dates available",
+        "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
+        "faculty": "Course Offered by FENS",
+        "attributes": "Lang. of Instruction: English, 6 ECTS, Course Offered by FENS"
     },
     {
         "name": "Introduction to Computing - Recitation",
@@ -51,7 +56,11 @@
                 "scheduleType": "1st del",
                 "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
             }
-        ]
+        ],
+        "associatedTerm": "Summer 2022-2023",
+        "registrationDates": "No dates available",
+        "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
+        "faculty": "Course Offered by FENS"
     },
     {
         "name": "Introduction to Computing - Recitation",
@@ -78,6 +87,10 @@
                 "scheduleType": "1st del",
                 "instructors": "At\u00c4\u00b1l Utku  Ay (P)"
             }
-        ]
+        ],
+        "associatedTerm": "Summer 2022-2023",
+        "registrationDates": "No dates available",
+        "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
+        "faculty": "Course Offered by FENS"
     }
 ]

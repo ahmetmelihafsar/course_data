@@ -147,7 +147,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Computing - Recitation",
@@ -178,7 +179,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Advanced Programming",
@@ -241,7 +243,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Advanced Programming Lab",
@@ -272,7 +275,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Data Science",
@@ -390,7 +394,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Algorithms",
@@ -1097,7 +1102,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Project and Internship",
@@ -1871,7 +1877,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Electronic Circuits I - Recitation",
@@ -1893,7 +1900,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Mechanics",
@@ -1947,7 +1955,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Materials Science",
@@ -2001,7 +2010,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Industrial Engineering",
@@ -2055,7 +2065,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Industrial Engineering Recitation",
@@ -2077,7 +2088,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Signals",
@@ -2131,7 +2143,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "English Route 4",
@@ -3675,7 +3688,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Systems And Network Security",
@@ -3857,7 +3871,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Project and Internship",
@@ -4320,7 +4335,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Calculus II",
@@ -4383,7 +4399,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Calculus II - Recitation",
@@ -4414,7 +4431,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Calculus II - Recitation",
@@ -4445,7 +4463,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Linear Algebra",
@@ -4499,7 +4518,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Linear Algebra - Recitation",
@@ -4521,7 +4541,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Differential Equations",
@@ -4575,7 +4596,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Differential Equations - Recitation",
@@ -4597,7 +4619,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Probability",
@@ -4651,7 +4674,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Probability - Recitation",
@@ -4673,7 +4697,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Probability - Recitation",
@@ -4695,7 +4720,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Discrete Mathematics",
@@ -4749,7 +4775,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Discrete Mathematics - Recitation",
@@ -4771,7 +4798,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Discrete Mathematics - Recitation",
@@ -4793,7 +4821,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Statistical Modelling",
@@ -4847,7 +4876,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Statistical Modelling - Recitation",
@@ -4869,7 +4899,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Statistical Modelling - Recitation",
@@ -4891,7 +4922,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Statistical Modelling - Recitation",
@@ -4913,7 +4945,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Statistical Modelling - Recitation",
@@ -4935,7 +4968,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Internship Project",
@@ -5343,7 +5377,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Science of Nature II",
@@ -5406,7 +5441,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FENS"
+        "faculty": "Course Offered by FENS",
+        "attributes": ""
     },
     {
         "name": "Introduction to Business Analytics",
@@ -5460,7 +5496,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by SBS"
+        "faculty": "Course Offered by SBS",
+        "attributes": ""
     },
     {
         "name": "Organizations and Organizing",
@@ -5775,7 +5812,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FASS"
+        "faculty": "Course Offered by FASS",
+        "attributes": ""
     },
     {
         "name": "Humanity and Society II",
@@ -5838,7 +5876,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FASS"
+        "faculty": "Course Offered by FASS",
+        "attributes": ""
     },
     {
         "name": "Humanity and Society II - Discussion",
@@ -5869,7 +5908,8 @@
         "associatedTerm": "Summer 2022-2023",
         "registrationDates": "No dates available",
         "levels": "Doctorate, Undeclared, Scientific Preparatory, Undergraduate, Masters, Special Student, Exchange - Socrates Erasmus UG, Exchange - Socrates Erasmus MA, Exchange - Socrates Erasmus DR, Exchange - Erasmus Mundus MA, Exchange - Erasmus Mundus DR, Exchange - Erasmus Mundus UG",
-        "faculty": "Course Offered by FASS"
+        "faculty": "Course Offered by FASS",
+        "attributes": ""
     },
     {
         "name": "Law and Ethics",

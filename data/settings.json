@@ -1,0 +1,20 @@
+{
+  "remote_settings": {
+    "app_enabled": true,
+    "purchase_enabled": true,
+    "last_version": {
+      "build": null,
+      "version": null,
+      "name": null,
+      "date": null,
+      "warning": ""
+    },
+    "last_version_forced": {
+      "build": null,
+      "version": null,
+      "name": null,
+      "date": null,
+      "warning": ""
+    }
+  }
+}

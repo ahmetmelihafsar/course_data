@@ -1,7 +1,8 @@
 {
   "remote_settings": {
-    "app_enabled": true,
+    "app_enabled": false,
     "purchase_enabled": true,
+    "app_disable_warning": "The app will be operational back at 27.09.2023",
     "last_version": {
       "build": 23,
       "version": "0.0.3",

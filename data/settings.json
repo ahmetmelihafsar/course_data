@@ -1,8 +1,12 @@
 {
   "remote_settings": {
-    "app_enabled": false,
+    "app_enabled": true,
     "purchase_enabled": false,
-    "app_disable_warning": "The app will be operational back at 27.09.2023",
+    "app_disable_warning": "",
+    "purchase_disable_warning": "You cannot make purchases at this time.",
+    "general_notice_popup_exists": true,
+    "general_notice_popup": "Test message",
+    "general_notice_popup_title": "Test title",
     "last_version": {
       "build": 23,
       "version": "0.0.3",

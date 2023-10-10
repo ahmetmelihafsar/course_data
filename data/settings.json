@@ -5,8 +5,8 @@
     "app_disable_warning": "",
     "purchase_disable_warning": "You cannot make purchases at this time.",
     "general_notice_popup_exists": false,
-    "general_notice_popup": "About Purchases",
-    "general_notice_popup_title": "Purchase mechanism will be enabled after 09.10.2023 23:59. Until then,\n\nAdmin",
+    "general_notice_popup": "Purchase mechanism will be enabled after 09.10.2023 23:59. Until then,\n\nAdmin",
+    "general_notice_popup_title": "About Purchases",
     "last_version": {
       "build": 23,
       "version": "0.0.3",

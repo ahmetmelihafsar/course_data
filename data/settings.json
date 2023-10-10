@@ -5,7 +5,7 @@
     "app_disable_warning": "",
     "purchase_disable_warning": "You cannot make purchases at this time.",
     "general_notice_popup_exists": true,
-    "general_notice_popup": "This app is only intended to notify you about new seats in your courses. It is possible that the course you bought might not have any changes during add-drop, or our systems might fal to catch it. By using this app, you acknowledge that there is not a guarantee you will get the course. For now, this app does not take the courses for you, although we plan to add it in the future. (You may contact us via feedback form for your eligibility for it).",
+    "general_notice_popup": "This app is only intended to notify you about new seats in your courses. It is possible that the course you bought might not have any changes during add-drop, or our systems might fail to catch it. By using this app, you acknowledge that there is not a guarantee you will get the course. For now, this app does not take the courses for you, although we plan to add it in the future. (You may contact us via feedback form for your eligibility for it).",
     "general_notice_popup_title": "About App Usage",
     "last_version": {
       "build": 23,

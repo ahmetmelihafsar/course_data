@@ -1,7 +1,7 @@
 {
   "remote_settings": {
-    "app_enabled": false,
-    "purchase_enabled": false,
+    "app_enabled": true,
+    "purchase_enabled": true,
     "app_disable_warning": "This app is not available for this term.",
     "purchase_disable_warning": "You cannot make purchases at this time.",
     "general_notice_popup_exists": true,
